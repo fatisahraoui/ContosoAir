@@ -1,3 +1,5 @@
+
+[![Build Status](https://dev.azure.com/SAHRAOUIFATIMAZZAHRA/SA/_apis/build/status/fatisahraoui.ContosoAir?branchName=master)](https://dev.azure.com/SAHRAOUIFATIMAZZAHRA/SA/_build/latest?definitionId=21&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
