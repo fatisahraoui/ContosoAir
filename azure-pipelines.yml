@@ -4,9 +4,8 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 
-
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'ubuntu-latest'
 trigger:
   - master
 steps:
